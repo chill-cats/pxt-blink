@@ -1,3 +1,3 @@
-basic.forever(function () {
+function blink () {
 	
-})
+}
